@@ -1,11 +1,11 @@
 {
-    "name": "spatie/schema-org",
+    "name": "schemaorg",
     "description": "A fluent builder Schema.org types and ld+json generator",
     "keywords": [
         "spatie",
         "schema-org"
     ],
-    "homepage": "https://github.com/spatie/schema-org",
+    "homepage": "https://github.com/idealizetecnologia/schema-org",
     "license": "MIT",
     "authors": [
         {
@@ -16,7 +16,7 @@
         }
     ],
     "require": {
-        "php": ">=5.3.2"
+        "php": ">=5.3"
     },
     "require-dev": {
         "graham-campbell/analyzer": "^1.1",
